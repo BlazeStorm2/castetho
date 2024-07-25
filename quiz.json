@@ -1,20 +1,105 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of Chevrolet with this quiz.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "What year was Chevy founded?",
+      "answers": ["1911", "1920", "1935"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "What is Chevy's sports car?",
+      "answers": ["Camaro", "Malibu", "Impala"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Where is Chevy headquartered?",
+      "answers": ["LA", "Detroit", "NYC"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Who founded Chevy?",
+      "answers": ["Henry", "Louis", "David"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is Chevy's pickup?",
+      "answers": ["Ranger", "Ram", "Silverado"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Which is a Chevy SUV?",
+      "answers": ["Civic", "Tahoe", "Fit"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is Chevy's slogan?",
+      "answers": ["Like a Rock", "Zoom-Zoom", "Let's Go"],
       "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which Chevy is a hybrid?",
+      "answers": ["Volt", "Taurus", "Fiesta"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Chevy's electric car?",
+      "answers": ["Model 3", "Leaf", "Bolt"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Which is a Chevy compact?",
+      "answers": ["Cruze", "Explorer", "Expedition"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What year was Camaro launched?",
+      "answers": ["1964", "1966", "1970"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Which Chevy is full-size?",
+      "answers": ["Edge", "Fiesta", "Suburban"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Which is Chevy's crossover?",
+      "answers": ["Edge", "Fusion", "Equinox"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "What is Chevy's luxury brand?",
+      "answers": ["Cadillac", "Lexus", "Lincoln"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Chevy's midsize?",
+      "answers": ["Malibu", "Focus", "Fiesta"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which Chevy has AWD?",
+      "answers": ["Fiesta", "Trax", "Explorer"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is Chevy's subcompact?",
+      "answers": ["Trax", "Edge", "Escape"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which Chevy has Turbo?",
+      "answers": ["Volt", "Cruze", "Focus"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Which is a Chevy hatchback?",
+      "answers": ["Escape", "Cruze", "F-150"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is Chevy's performance line?",
+      "answers": ["RS", "ST", "SS"],
+      "correctAnswerIndex": 2
     }
   ]
 }
